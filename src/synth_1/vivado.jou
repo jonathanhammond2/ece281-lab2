@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Tue Feb 24 16:15:13 2026
+# Process ID         : 10176
+# Current directory  : Y:/ECE281/ece281-lab2/src/synth_1
+# Command line       : vivado.exe -log top_basys3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_basys3.tcl
+# Log file           : Y:/ECE281/ece281-lab2/src/synth_1/top_basys3.vds
+# Journal file       : Y:/ECE281/ece281-lab2/src/synth_1\vivado.jou
+# Running On         : JONATHANHAMAC11
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Apple Silicon
+# CPU Frequency      : 3072 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 4
+# Host memory        : 8583 MB
+# Swap memory        : 6174 MB
+# Total Virtual      : 14757 MB
+# Available Virtual  : 7808 MB
+#-----------------------------------------------------------
+source top_basys3.tcl -notrace
