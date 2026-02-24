@@ -87,14 +87,9 @@ begin
             assert seg = "0000110" report "error on xE" severity failure;
         sw <= x"F"; wait for 10 ns;
             assert seg = "0001110" report "error on xF" severity failure;
-                        
 
 
-
-      
-      
-
-
+end process;
 
 end test_bench;
 
