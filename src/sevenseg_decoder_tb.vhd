@@ -87,6 +87,8 @@ begin
             assert seg = "0000110" report "error on xE" severity failure;
         sw <= x"F"; wait for 10 ns;
             assert seg = "0001110" report "error on xF" severity failure;
+        sw <= x"FE"; wait for 10 ns;
+            assert seg = "1111111" report "error on xFE" severity failure;
 
 
 end process;
